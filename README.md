@@ -207,6 +207,9 @@ Executa uma função para cada item do array.
 
 ```js
 [1, 2, 3].forEach(n => console.log("forEach 👉", n));
+// forEach 👉 1
+// forEach 👉 2
+// forEach 👉 3
 ```
 
 
