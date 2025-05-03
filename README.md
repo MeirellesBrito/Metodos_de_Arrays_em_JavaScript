@@ -209,14 +209,6 @@ Executa uma função para cada item do array.
 [1, 2, 3].forEach(n => console.log("forEach 👉", n));
 ```
 
----
 
-## 📌 Contribua
 
-Você pode contribuir com exemplos, correções ou melhorias através de pull requests. 🚀
 
----
-
-## 📌 Licença
-
-Este conteúdo está disponível sob a licença MIT.
